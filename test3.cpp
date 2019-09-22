@@ -1,6 +1,5 @@
 // File: p4test6.cpp
 //
-// UMBC CMSC 341 Fall 2017 Project 4
 //
 // Tests copy constructor, destructor and assignment operator
 //
