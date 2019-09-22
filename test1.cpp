@@ -1,6 +1,5 @@
 // File: p4test4.cpp
 //
-// UMBC CMSC 341 Fall 2017 Project 4
 //
 // Testing MedianHeap with City class pointers 
 //
