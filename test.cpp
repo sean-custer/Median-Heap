@@ -1,6 +1,5 @@
 // File: p4test1.cpp
 //
-// UMBC CMSC 341 Fall 2017 Project 4
 //
 // Simple test of MedianHeap with int
 //
