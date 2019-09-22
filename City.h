@@ -1,6 +1,5 @@
 // File: City.h
 //
-// UMBC CMSC 341 Fall 2017 Project 4
 //
 // class declarations for the City class
 //
