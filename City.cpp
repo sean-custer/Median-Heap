@@ -1,6 +1,5 @@
 // File: City.cpp
 //
-// UMBC CMSC 341 Fall 2017 Project 4
 //
 // Implementation of the City class functions
 //
